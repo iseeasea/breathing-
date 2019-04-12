@@ -1,0 +1,48 @@
+body { 
+  background: LightSlateGrey;
+  padding: 20px;
+}
+
+h1{
+  margin: auto;
+  padding-bottom: 30px;
+  color:white;
+  font-size: 50px;
+  text-align: center;
+}
+h5 {
+  margin: auto;
+  font-style: italic;
+  text-align: center;
+}
+
+.text {
+  color:white;
+  font-family:  Monospace;
+  font-size: 35px;
+}
+#symptom{
+  color: black;
+  font-style: italic;
+}
+#Breathing{
+  color: skyblue;
+  font-weight: lighter;
+}
+div{
+  border: 3px solid #cfcfcf;
+  border-bottom: 0;
+  margin: auto;
+  padding: 30px;
+  width: 50%;
+}
+div:last-child {
+  border-bottom: 3px solid #cfcfcf;
+}
+img {
+  max-width: 100%;
+}
+ul {
+  padding-left: 20px;
+  margin: 0;
+}
